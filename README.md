@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and NLP**
 
-- 📫 How to reach me **abinakukanova@gmail.com**, **https://t.me/abinakukanova**
+- 📫 How to reach me **abinakukanova@gmail.com**,
 
 
 <h3 align="left">Connect with me:</h3>
