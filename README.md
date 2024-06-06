@@ -9,5 +9,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@baebaelalisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@baebaelalisa" height="30" width="40" /></a>
+<a href="https://t.me/abinakukanova" target="blank"><img align="center" src="https://github.com/AbinaKukanova/AbinaKukanova/blob/main/telegram_6xl6mvducz08.svg" alt="@abinakukanova" height="30" width="40" /></a>
 </p>
