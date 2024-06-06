@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and NLP**
 
-- 📫 How to reach me **abinakukanova@gmail.com**
+- 📫 How to reach me **abinakukanova@gmail.com**, **https://t.me/abinakukanova**
