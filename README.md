@@ -8,8 +8,13 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/abinakukanova" target="blank"><img align="center" src="https://github.com/AbinaKukanova/AbinaKukanova/blob/main/telegram_6xl6mvducz08.svg" alt="abinakukanova" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/abinakukanova15" target="blank"><img align="center" src="https://github.com/AbinaKukanova/AbinaKukanova/blob/main/kaggle-ar21.svg" alt="abinakukanova" height="70" width="120" /></a>
-</p>
-<a
+
+[<img align="left" alt="abinakukanova | Gmail" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
+
+[<img align="left" alt="abinakukanova | GitHub" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][github]
+
+[<img align="left" alt="abinakukanova | Kaggle" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][kaggle]
+
+[gmail]: mailto:abinakukanova@gmail.com
+[github]: https://github.com/abinakukanova
+[kaggle]: https://www.kaggle.com/abinakukanova15
