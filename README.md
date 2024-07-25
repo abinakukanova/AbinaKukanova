@@ -9,5 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/abinakukanova" target="blank"><img align="center" src="https://github.com/AbinaKukanova/AbinaKukanova/blob/main/telegram_6xl6mvducz08.svg" alt="@abinakukanova" height="30" width="40" /></a>
+<a href="https://t.me/abinakukanova" target="blank"><img align="center" src="https://github.com/AbinaKukanova/AbinaKukanova/blob/main/telegram_6xl6mvducz08.svg" alt="abinakukanova" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/abinakukanova15" target="blank"><img align="center" src="https://github.com/AbinaKukanova/AbinaKukanova/blob/main/kaggle-ar21.svg" alt="abinakukanova" height="30" width="40" /></a>
 </p>
+<a
